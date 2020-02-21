@@ -1,1 +1,1 @@
-<a href="kusaljay.github.io/Kusal_Fernando_Resume.pdf" target="_blank">Click here</a> to download
+<a href="Kusal_Fernando_Resume.pdf" target="_blank">Click here</a> to download
